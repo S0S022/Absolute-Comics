@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Jost";
-  src: url(./fonts/Jost-Regular.ttf);
+  src: url(Jost-Regular.ttf);
 }
 
 @font-face {
   font-family: "DMSans";
-  src: url(./fonts/DMSans_18pt-Regular.ttf);
+  src: url(DMSans_18pt-Regular.ttf);
 }
 
 header h1 {
@@ -46,7 +46,7 @@ header h1 {
 }
 
 body {
-  background: url(./img/comics.png) center/cover;
+  background: url(comics.png) center/cover;
   min-height: 100vh;
 }
 
@@ -169,3 +169,4 @@ footer li {
   background: rgb(0, 180, 224);
   overflow: hidden;
 }
+
